@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Frédéric/Google%20Drive%20XCedim/R&D/Android/SudokuExperimentProject/SudokuExperiment/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/Frédéric/Google%20Drive%20XCedim/R&D/Android/SudokuExperimentProject/SudokuExperiment/src/main/res/values/ids.xml -->
+    <eat-comment />
+
+    <item name="GameGrid" type="id">GameGrid</item>
+    <item name="btEasy" type="id">1</item>
+    <item name="btNormal" type="id">2</item>
+    <!-- From: file:/C:/Users/Frédéric/Google%20Drive%20XCedim/R&D/Android/SudokuExperimentProject/SudokuExperiment/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Sudoku Experiment</string>
+    <string name="btEasyLabel">Easy</string>
+    <string name="btExpertLabel">Expert</string>
+    <string name="btNormalLabel">Normal</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_game_display_gx">Sudoku Experiment</string>
+    <!-- From: file:/C:/Users/Frédéric/Google%20Drive%20XCedim/R&D/Android/SudokuExperimentProject/SudokuExperiment/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.NoTitleBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>

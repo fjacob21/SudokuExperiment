@@ -1,0 +1,18 @@
+<!-- From: file:/C:/Users/Frédéric/Google%20Drive%20XCedim/R&D/Android/SudokuExperimentProject/SudokuExperiment/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="5" android:versionName="1.4" package="com.xcedim.sudokuexperiment">
+
+    <uses-sdk android:minSdkVersion="10" android:targetSdkVersion="19"/>
+
+    <application android:allowBackup="true" android:debuggable="true" android:icon="@drawable/se_launcher" android:label="@string/app_name" android:theme="@style/AppTheme">
+        <activity android:label="@string/app_name" android:name="com.xcedim.sudokuexperiment.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="Select the difficulty level" android:name="com.xcedim.sudokuexperiment.level_selection"/>
+        <activity android:label="@string/title_activity_game_display_gx" android:name="com.xcedim.sudokuexperiment.game_display_gx">
+        </activity>
+    </application>
+
+</manifest>

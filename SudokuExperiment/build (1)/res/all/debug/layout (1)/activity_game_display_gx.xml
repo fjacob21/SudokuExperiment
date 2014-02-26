@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".game_display_gx">
+
+    <com.xcedim.sudokuexperiment.GameBoardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout><!-- From: file:/C:/Users/Frédéric/Google%20Drive%20XCedim/R&amp;D/Android/SudokuExperimentProject/SudokuExperiment/src/main/res/layout/activity_game_display_gx.xml -->

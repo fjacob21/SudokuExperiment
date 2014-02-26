@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <GridLayout
+        android:layout_width="fill_parent"
+        android:layout_height="450dp"
+        android:columnCount="9"
+        android:rowCount="9"
+        android:focusableInTouchMode="false"
+        android:id="@id/GameGrid">
+    </GridLayout>
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:width="100dp"
+        android:height="100dp"
+        android:text="Solve"
+        android:onClick="Solve" />
+
+</LinearLayout><!-- From: file:/C:/Users/Frédéric/Google%20Drive%20XCedim/R&amp;D/Android/SudokuExperimentProject/SudokuExperiment/src/main/res/layout/game_display.xml -->
